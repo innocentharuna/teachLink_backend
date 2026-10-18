@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/fix-readme-header-and-org-links",
+    "feat-fix",
+    "feat-payment",
+    "feat-remove-redundancy",
+    "feat-security",
+    "main",
+    "origin",
+    "solver/issue-1853-54-a0"
+  ],
+  "parent": {
+    "docs/fix-readme-header-and-org-links": "main",
+    "feat-fix": "main",
+    "feat-payment": "main",
+    "feat-remove-redundancy": "main",
+    "feat-security": "main",
+    "main": null,
+    "origin": "main",
+    "solver/issue-1853-54-a0": "main"
+  },
+  "order": [
+    "main",
+    "docs/fix-readme-header-and-org-links",
+    "feat-fix",
+    "feat-payment",
+    "feat-remove-redundancy",
+    "feat-security",
+    "origin",
+    "solver/issue-1853-54-a0"
+  ]
+}
